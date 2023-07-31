@@ -1,0 +1,15 @@
+package com.in.att.s3;
+
+import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class S3ServerAttApplicationTests {
+
+	@Test
+	@Disabled
+	void contextLoads() {
+	}
+
+}
